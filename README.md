@@ -7,10 +7,7 @@
 
 <p align="center">
   <a href="https://discord.gg/tcQSp98FSX">
-    <img src="https://img.shields.io/badge/Report%20Bug-Join%20Discord-111111?style=for-the-badge&logo=discord&logoColor=ff0033" alt="Report Bug">
-  </a>
-  <a href="https://discord.gg/tcQSp98FSX">
-    <img src="https://img.shields.io/badge/Request%20Feature-Join%20Discord-111111?style=for-the-badge&logo=discord&logoColor=ff0033" alt="Request Feature">
+    <img src="https://img.shields.io/badge/💬%20Join%20Discord-cc0000?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
   </a>
 </p>
 
