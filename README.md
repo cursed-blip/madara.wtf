@@ -28,19 +28,40 @@
 Getting started with Madara is simple:
 
 ```lua
-local Madara = loadstring(game:HttpGet("YOUR_LIBRARY_URL"))()
+local Madara = loadstring(game:HttpGet("https://raw.githubusercontent.com/cursed-blip/madara.wtf/main/madara.lua"))()
 
 local Window = Madara:CreateWindow({
-    Title = "Madara Example",
-    Center = true,
-    AutoShow = true
+    Name = "Madara Example"
 })
 
 local Tab = Window:AddTab("Main")
+local Section = Tab:AddSection("Example")
 
-local Groupbox = Tab:AddLeftGroupbox("Settings")
-
-Groupbox:AddToggle("ExampleToggle", {
-    Text = "Enable Feature",
-    Default = false
+Section:AddToggle({
+    Name = "God Mode",
+    Flag = "GodMode"
 })
+
+Section:AddButton({
+    Name = "Execute",
+    Callback = function()
+        print("Executed!")
+    end
+})
+})
+```
+## API Structure
+Window
+└── Tab
+    └── Section
+        ├── Label
+        ├── Toggle
+        ├── Button
+        ├── Slider
+        ├── Dropdown
+        ├── SearchBox
+        ├── Textbox
+        ├── Keybind
+        ├── Colorpicker
+        ├── Persistence
+        └── Designer
