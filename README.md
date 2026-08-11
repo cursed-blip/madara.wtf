@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cursed-blip/madara.wtf">
-    <img src="https://media.discordapp.net/attachments/1497579415947706491/1527061123784904794/Screenshot_2026-07-15_210610.png?ex=6a5949ff&is=6a57f87f&hm=6be1e5d8ec100575e89a52c6701e038cf605df3e7f4658a4d502ebb1bda7c3f2&=&format=webp&quality=lossless&width=434&height=424" alt="Madara Logo" width="72" height="72">
+    <img src="https://media.discordapp.net/attachments/1497579415947706491/1536767851895988285/image.png?ex=6a7c9a17&is=6a7b4897&hm=e0d2c0b64cba0ee78c5891fde252d2db431b2dcf385fdda067dfcf2dd2960944&=&format=webp&quality=lossless" alt="Madara Logo" width="72" height="72">
   </a>
 </p>
 
