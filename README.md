@@ -12,15 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/cursed-blip/madara.wtf/stargazers">
-    <img src="https://img.shields.io/github/stars/cursed-blip/madara.wtf?style=flat-square&label=stars" alt="Stars">
-  </a>
-  <a href="https://github.com/cursed-blip/madara.wtf/network/members">
-    <img src="https://img.shields.io/github/forks/cursed-blip/madara.wtf?style=flat-square&label=forks" alt="Forks">
-  </a>
-</p>
-
 ## Table of Contents
 
 - [Features](#features)
