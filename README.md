@@ -1,6 +1,6 @@
 <h3 align="center">madara.wtf</h3>
 
-<p align="center">A modern Roblox UI library — clean, fast, and easy to theme.</p>
+<p align="center">A modern Roblox UI library. clean, fast, and easy to theme.</p>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/lua/black/white" width="28" height="28" alt="Lua" />
